@@ -1,0 +1,11 @@
+Source: https://github.com/MengTo/Skills
+Fixed upstream commit: d5463ad2357e3e1c1480cc00e5b8fe49628a253c
+Upstream path: agent-skills/workflow/workflow-score-to-target/
+
+Copyright (c) 2026 Meng To
+License: MIT; see LICENSE.txt (upstream LICENSE copied verbatim).
+
+SKILL.md and templates/ are copied unchanged from the fixed upstream commit.
+The upstream workflow optionally points to workflow-progress-screenshots, which
+is not bundled in this repository; capture real screenshots, recordings and
+measurements through your project's existing tooling when using this skill.
