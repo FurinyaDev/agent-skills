@@ -84,6 +84,16 @@ Everything outside a profile is still available on demand — `brainstorming`,
 their specific task appears. None of them is mandatory because a repository happens to use
 that language or engine.
 
+For iterative UI, art, and interaction polish, the on-demand
+[`workflow-score-to-target`](workflow-score-to-target/SKILL.md) provides anchored
+0–10 rubrics, baseline evidence, independent blind critics, and before/after
+scorecards. It is included in `--profile all`, not the default `core` profile;
+users can also open this skill explicitly. The upstream workflow references the
+optional `workflow-progress-screenshots` skill, which is not bundled here:
+use your project's existing real screenshot/recording capture instead. Scores
+never override functional tests, performance evidence, or project acceptance.
+
+
 Retired from the active surface: `using-superpowers`, `root-cause-and-verification`,
 `5-whys-root-cause-analysis`, `pause-and-clarify-riper5`, `verification-before-completion`,
 and `ai-native-sop`. Their useful invariants live once in the skills above;

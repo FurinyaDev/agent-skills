@@ -35,6 +35,13 @@ Known upstreams
                                       `code-change-verification`. Provenance is in each
                                       script header.
 
+
+- MengTo/Skills `workflow-score-to-target` (MIT, Copyright (c) 2026 Meng To) —
+  upstream `d5463ad2357e3e1c1480cc00e5b8fe49628a253c`, copied without
+  modification from `agent-skills/workflow/workflow-score-to-target/`; source,
+  license and optional dependency notes are in `workflow-score-to-target/NOTICE`
+  and `workflow-score-to-target/LICENSE.txt`.
+
 Design references (concepts only, no code imported)
 --------------------------------------------------
 
